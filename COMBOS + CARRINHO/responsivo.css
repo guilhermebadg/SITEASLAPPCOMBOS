@@ -1,0 +1,12 @@
+@media (width: 764){
+
+    .poster{
+     max-width: 300px;
+     max-height: 800px;
+    }
+
+    .box{
+        align-items: center;
+    }
+
+    }
